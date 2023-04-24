@@ -1,0 +1,21 @@
+body{
+  background: linear-gradient(
+    to left,
+    #3c4043 0%,
+    #3c4043 50%,
+    #ffc107 50%,
+    #ffc107 100%
+  );
+}
+#container_app{
+width: 350px;
+text-align: center;
+margin: auto;
+margin-top: 10%;
+}
+.ukryty{
+  display: none;
+}
+.modal-body{
+  text-align: left;
+}
